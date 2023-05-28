@@ -1,0 +1,5 @@
+installation packages
+->pywin32
+->win10Toast
+->datetime
+->setuptools
